@@ -1,0 +1,49 @@
+.title-bar {
+    background-color:skyblue;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2vw;
+}
+
+#title-bar-menu {
+    background-color:rgb(135, 217, 235);
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2vw;
+    padding-top: 2vh;
+}
+
+.menu-bar {
+    background-color:lightblue;
+    padding-left: 2vw;
+    display:flex;
+}
+
+
+.menu-item {
+    margin-left: 25px;
+}
+
+.content {
+    display:flex;
+}
+
+.nav {
+    background-color:deepskyblue;
+    width:20vw;
+    height:80vh;
+    padding-left:2vw;
+}
+
+.main {
+    background-image: url(view.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 1200px;
+    width:100%;
+    height:auto;
+    color: white;
+    padding-left: 2vw;
+    padding-right: 2vw;
+
+}
